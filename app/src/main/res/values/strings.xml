@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Scanify</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password_desc">Enter your email address and we\'ll send you a link to reset your password.</string>
+    <string name="email_hint">email@example.com</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="copyright">© 2026 Scanify Systems. All rights reserved.</string>
+    <string name="desc_forgot_password_icon">Forgot Password Icon</string>
+    <string name="desc_back_arrow">Back Arrow</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_account_desc">Start digitizing your world today</string>
+    <string name="full_name">Full Name</string>
+    <string name="name_hint">John Doe</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Must be at least 8 characters.</string>
+    <string name="agree_terms">I agree to the Terms of Service and Privacy Policy.</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="sign_up_google">Sign up with Google</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="sign_in">Sign In</string>
+    <string name="password_hint_dots">........</string>
+    <string name="desc_toggle_password">Toggle Password Visibility</string>
+    <string name="desc_help">Help</string>
 </resources>
